@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/License-Academic-blue.svg)](#license)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](#building-and-testing)
 
+This is an educational project made for the course Programming 2: Introduction to Imperative Programming at Saarland University for the Summer 2025 Semester.
+
 A robust and efficient Java implementation of a URI parser that follows a subset and variant of RFC 3986. This project provides a comprehensive URI parsing library designed for accuracy, performance, and ease of use.
 
 ## ✨ Features
